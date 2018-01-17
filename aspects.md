@@ -1,4 +1,4 @@
-## SMACSS面面观
+# SMACSS面面观
 
 第十章 [适用性深度](/aspectsofsmacss/10-适用性深度.md)
 
