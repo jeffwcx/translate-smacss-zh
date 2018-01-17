@@ -22,7 +22,7 @@
   * [图标模块](aspectsofsmacss/16-图标模块.md)
   * [复杂的继承](aspectsofsmacss/17-复杂的继承.md)
   * [录屏 应用原则](aspectsofsmacss/18-录屏：应用原则.md)
-  * [预处理器](aspectsofsmacss/yu-chu-li-qi.md)
+  * [录屏 避免有特定内容的上下文](aspectsofsmacss/19-录屏：避免有特定内容的上下文.md)
 * [附录](appendix.md)
   * [代码格式](appendix/20-代码格式.md)
   * [资源](appendix/21-资源.md)
