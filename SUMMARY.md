@@ -12,7 +12,7 @@
   * [状态规则](core/7-状态规则.md)
   * [主题规则](core/8-主题规则.md)
   * [状态改变](core/9-状态改变.md)
-* [SMACSS面面观](smacssmian-mian-guan.md)
+* [SMACSS面面观](aspects.md)
   * [适用性深度](aspectsofsmacss/10-适用性深度.md)
   * [选择器性能](aspectsofsmacss/11-选择器性能.md)
   * [HTML5和SMACSS](aspectsofsmacss/12-HTML5和SMACSS.md)
