@@ -1,7 +1,7 @@
 # Summary
 
 * [目录](README.md)
-* [前言](qian-yan.md)
+* [前言](preface.md)
   * [关于作者](preface/1-关于作者.md)
   * [介绍](preface/2-介绍.md)
 * [核心](core.md)
