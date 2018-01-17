@@ -4,7 +4,7 @@
 * [前言](qian-yan.md)
   * [关于作者](preface/1-关于作者.md)
   * [介绍](preface/2-介绍.md)
-* [核心](smacssmian-mian-guan.md)
+* [核心](core.md)
   * [规则分类](core/3-对CSS规则进行分类.md)
   * [基础规则](core/4-基础规则.md)
   * [布局规则](core/5-布局规则.md)
