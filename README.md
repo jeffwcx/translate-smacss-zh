@@ -1,6 +1,6 @@
-<p style="text-align: center;"><img src="assets/logo.png"></p>
+<p align="center"><img src="assets/logo.png"></p>
 
-<h1 style="text-align: center;">CSS模块化可扩展架构（SMACSS）</h1>
+<h1 align="center">CSS模块化可扩展架构（SMACSS）</h1>
 
 + 前言
 
@@ -11,7 +11,7 @@
 
   3. [对CSS规则进行分类](core/3-对CSS规则进行分类.md)
   4. [基础规则](core/4-基础规则.md)
-  5. [布局规则](core/5-布局规则.md)
+  5. [布局规则](core/5-布局规则.md)
   6. [模块规则](core/6-模块规则.md)
   7. [状态规则](core/7-状态规则.md)
   8. [主题规则](core/8-主题规则.md)
