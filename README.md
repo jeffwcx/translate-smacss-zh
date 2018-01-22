@@ -16,7 +16,7 @@
   + [主题规则](core/8-主题规则.md)
   + [状态改变](core/9-状态改变.md)
 
-+ SMACSS的各个方面
++ SMACSS面面观
 
   + [适用性深度](aspectsofsmacss/10-适用性深度.md)
   + [选择器性能](aspectsofsmacss/11-选择器性能.md)
