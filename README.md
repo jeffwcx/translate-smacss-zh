@@ -1,7 +1,7 @@
 <p align="center"><img src="assets/logo.png"></p>
 
 <h1 align="center">CSS模块化可扩展架构（SMACSS）</h1>
-## 原书地址：[smacss.com](https://smacss.com/)
+<h2> 原书地址：[smacss.com](https://smacss.com/)</h2>
 
 + 前言
 
