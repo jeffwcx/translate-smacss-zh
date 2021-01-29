@@ -8,7 +8,7 @@
 
 第十三章 [原型](/aspectsofsmacss/13-原型.md)
 
-第十四章 [预处理器](/aspectsofsmacss/yu-chu-li-qi.md)
+第十四章 [预处理器](/aspectsofsmacss/14-预处理器.md)
 
 第十五章 [不要随便定义基础规则](/aspectsofsmacss/15-不要随便定义基础规则.md)
 

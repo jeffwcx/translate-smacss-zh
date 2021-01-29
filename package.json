@@ -1,0 +1,30 @@
+{
+  "name": "translate-smacss-zh",
+  "version": "0.1.0",
+  "description": "SMACSS中文翻译",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffwcx/translate-smacss-zh.git"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "keywords": [
+    "SMACSS",
+    "translate",
+    "中文",
+    "翻译"
+  ],
+  "author": "jeffwcx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeffwcx/translate-smacss-zh/issues"
+  },
+  "homepage": "https://github.com/jeffwcx/translate-smacss-zh#readme",
+  "devDependencies": {
+    "@vuepress/theme-vue": "^1.8.0",
+    "vuepress": "^1.8.0"
+  }
+}
