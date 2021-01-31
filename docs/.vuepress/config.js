@@ -1,13 +1,12 @@
 module.exports = {
   title: 'SMACSS中文翻译',
   description: 'CSS模块化可扩展架构',
-  theme: '@vuepress/vue',
+  plugins: ['@vuepress/back-to-top'],
   themeConfig: {
     logo: '/logo.png',
     editLinks: true,
     smoothScroll: true,
     nav: [
-      { text: '原书地址', link: 'https://smacss.com/', target:'_blank', rel:'' },
       { text: 'Github', link: 'https://github.com/jeffwcx/translate-smacss-zh', target:'_blank', rel:'' }
     ],
     sidebar: [

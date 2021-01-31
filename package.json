@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/jeffwcx/translate-smacss-zh#readme",
   "devDependencies": {
-    "@vuepress/theme-vue": "^1.8.0",
+    "@vuepress/plugin-back-to-top": "^1.8.0",
     "vuepress": "^1.8.0"
   }
 }

@@ -2,7 +2,9 @@
 
 <h1 align="center">CSS模块化可扩展架构（SMACSS）</h1>
 
-➡️ [翻译阅读](https://smacss-zh.vercel.app/)
+<h2 align="center">
+  <a href="https://smacss-zh.vercel.app/">👉 中文翻译</a>
+</h2>
 
 原书地址：[smacss.com](https://smacss.com/)
 
