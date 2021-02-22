@@ -6,6 +6,6 @@
   <a href="https://smacss-zh.vercel.app/">👉 中文翻译</a>
 </h2>
 
-原书地址：[smacss.com](https://smacss.com/)
+原书地址：[smacss.com](http://smacss.com/)
 
 
